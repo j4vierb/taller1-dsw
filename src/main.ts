@@ -1,4 +1,4 @@
-import { series } from "./src/data.js";
+import { series } from "./data.js";
 
 const seriesTable = document.getElementById('series-table')!;
 const seasonsAverage = document.getElementById('seasons-average')!;
